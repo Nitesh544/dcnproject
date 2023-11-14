@@ -22,6 +22,6 @@ version='0.0.1',
 author='Nitesh',
 author_email='niteshuchiharocks123@gmail.com',
 packages=find_packages(),
-install_requires=get_requirements('requirement.txt')
+install_requires=get_requirements('requirment.txt')
 
 )
